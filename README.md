@@ -1,4 +1,4 @@
-# modify vllm@f721096 for [AlphaMath](https://github.com/MARIO-Math-Reasoning/Super_MARIO) to support value model
+# modify [vllm@f721096](https://github.com/vllm-project/vllm/tree/f721096d48a7e3b98dffcb9b400bf58989cef64d) for [AlphaMath](https://github.com/MARIO-Math-Reasoning/Super_MARIO) to support value model
 
 ## Installation
 ```
