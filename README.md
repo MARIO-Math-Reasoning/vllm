@@ -16,6 +16,7 @@ vllm/model_executor/models/__init__.py
 vllm/outputs.py
 vllm/sequence.py
 vllm/worker/model_runner.py
+pyproject.toml # because setuptools 70.0.0 was released May 21 2024, need to pin version of setuptools.
 ```
 
 ## added files
